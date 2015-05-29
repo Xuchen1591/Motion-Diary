@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>晨老师的女朋友</Machine>
+    <WindowsUser>旭晨</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a7421937-73c7-4e39-ac58-2efedb5bcd4b</PackageIdentityName>
+    <RegisteredManifestChecksum>50386B81A94B97589BE2A50255801E903028D91CCA75A90489F6CD6635F0E7E4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a7421937-73c7-4e39-ac58-2efedb5bcd4b_1.0.0.0_neutral__2tk3k3p9b2xxg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a7421937-73c7-4e39-ac58-2efedb5bcd4b_2tk3k3p9b2xxg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a7421937-73c7-4e39-ac58-2efedb5bcd4b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=旭晨</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-02T11:50:21.004</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\bin\Release\motion_diary_v2.exe">
+      <PackagePath>motion_diary_v2.exe</PackagePath>
+      <Modified>2015-01-02T11:55:14.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\Assets\iniScreen.png">
+      <PackagePath>Assets\iniScreen.png</PackagePath>
+      <Modified>2014-12-26T14:35:34.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-26T14:35:34.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-12-26T09:04:33.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-02T11:50:19.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\bin\Release\LogoPage.xbf">
+      <PackagePath>LogoPage.xbf</PackagePath>
+      <Modified>2015-01-02T11:55:14.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-02T11:50:19.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\bin\Release\NotePage.xbf">
+      <PackagePath>NotePage.xbf</PackagePath>
+      <Modified>2015-01-02T11:50:19.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\旭晨\documents\visual studio 2013\Projects\motion_diary_v2\motion_diary_v2\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-02T11:50:20.623</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
