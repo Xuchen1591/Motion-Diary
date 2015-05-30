@@ -12,5 +12,5 @@ windows 8 store app
 * Scores everyday
 * Motion history
 
-## Enviroment
+## Environment
 OS: Windows 8/8.1
